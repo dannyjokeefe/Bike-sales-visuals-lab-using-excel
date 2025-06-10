@@ -47,3 +47,12 @@ The visualizations provide clear insights into patterns, comparisons, and trends
 1. Download the Excel file (`YourSpreadsheet.xlsx`)
 2. Open with Microsoft Excel (2021 or Office 365 recommended)
 3. Explore the dashboard and interact with charts or filters
+
+## 📬 Contact
+
+Let’s connect or collaborate:  
+[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
+
+---
+**Created by:** *Danny O'Keefe*  
+**Date:** May 2025
